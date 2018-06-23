@@ -16,6 +16,10 @@ is fully compatible with Fedora 25 x86\_64 and CentOS 7.3 x86\_64.
 
 Recommended Nginx version: `1.10.2` or newer.
 
+### Glyph's Notes
+
+Being optimized for Laravel installation.
+
 ## Features
 - Global caching
   - If included, tunes nginx to have browsers cache static resources.
